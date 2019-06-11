@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RevitAddIns>
+
+  <AddIn Type="Command">
+
+       <Name>Save as Family</Name>
+
+       <FullClassName>SaveFamily.Class1</FullClassName>
+
+       <Text>SaveFamily</Text> 
+
+       <Description>Save As Family (compact mode)</Description>
+
+       <VisibilityMode>AlwaysVisible</VisibilityMode>
+
+       <Assembly>C:\ProgramData\Autodesk\Revit\Addins\2015\RevitSaveAs.dll</Assembly>
+
+       <AddInId>502fe383-2648-4e98-adf8-5e6047f9dc34</AddInId>
+
+    <VendorId>JELD-WEN</VendorId>
+
+    <VendorDescription>www.jeld-wen.com</VendorDescription>
+
+  </AddIn>
+
+</RevitAddIns>

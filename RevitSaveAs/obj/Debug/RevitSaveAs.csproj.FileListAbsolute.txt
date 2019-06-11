@@ -1,0 +1,5 @@
+c:\users\aspr\documents\visual studio 2017\Projects\RevitSaveAs\RevitSaveAs\obj\Debug\RevitSaveAs.csprojResolveAssemblyReference.cache
+c:\users\aspr\documents\visual studio 2017\Projects\RevitSaveAs\RevitSaveAs\bin\Debug\RevitSaveAs.dll
+c:\users\aspr\documents\visual studio 2017\Projects\RevitSaveAs\RevitSaveAs\bin\Debug\RevitSaveAs.pdb
+c:\users\aspr\documents\visual studio 2017\Projects\RevitSaveAs\RevitSaveAs\obj\Debug\RevitSaveAs.dll
+c:\users\aspr\documents\visual studio 2017\Projects\RevitSaveAs\RevitSaveAs\obj\Debug\RevitSaveAs.pdb
